@@ -1,6 +1,6 @@
 -- CONFIGURAÇÃO:
 local KEY_URL = "https://raw.githubusercontent.com/githubcute/secret-bypass1/main/keys.txt" -- link do seu keys.txt
-local LINK_SITE_KEY = "https://tinyurl.com/4nhstsxs" -- troque pelo seu site de key
+local LINK_SITE_KEY = "https://eloquent-lollipop-7d40e8.netlify.app/" -- troque pelo seu site de key
 
 -- Função para buscar keys válidas do GitHub
 local function getKeys()
